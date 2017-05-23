@@ -1,0 +1,30 @@
+body  {
+	background-color:  #99ffeb;
+  
+   font-family: 'Londrina Shadow', cursive;
+
+}
+h1{
+	color: purple;
+}	
+h1{
+	font-size: 55px;
+}	
+h2{ 
+   color:  pink;
+}
+h2{ 
+    font-size: 33px;
+}
+ img{ 
+     display: block;
+     height: 199px; 
+     width:199px;
+ }
+
+ #title {
+ 	background: #b3ecff ;
+ 	width: 400px;
+ }
+
+
